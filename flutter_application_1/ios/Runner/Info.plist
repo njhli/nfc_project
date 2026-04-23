@@ -66,5 +66,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NFCReaderUsageDescription</key>
+<string>App ini memerlukan akses NFC untuk merekod kehadiran.</string>
+<key>com.apple.developer.nfc.readersession.formats</key>
+<array>
+   <string>NDEF</string>
+   <string>TAG</string>
+</array>
 </dict>
 </plist>
